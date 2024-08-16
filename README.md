@@ -4,6 +4,8 @@ Credit to Youtuber: SPOTLESS TECH
 
 Dataset: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
+Kaggle: https://www.kaggle.com/code/stevensoe94/plant-disease-prediction
+
 Please use the notebook on kaggle, else you might need to change the image directory to suite your usage. THANKS
 
 Summary: There are 38 kind of diseases in the dataset of plants (apple, blueberry, cherry, corn, grape and etc). Using tensorflow to learn to do image classification to recognizing the disease.
